@@ -44,39 +44,6 @@
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?&logo=Eclipse" height="30">
   <img src="https://img.shields.io/badge/-Vercel-000000?&logo=Vercel" height="30">
   <img src="https://img.shields.io/badge/-GitHub-181717?&logo=GitHub" height="30">
-</p><p>
-  <img src="https://img.shields.io/badge/-C-000?&logo=C" height="30">
-  <img src="https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B" height="30">
-  <img src="https://img.shields.io/badge/-Java-007396?&logo=Java" height="30">
-  <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python" height="30">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript" height="30">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5" height="30">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?&logo=CSS3" height="30">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=Bootstrap" height="30">
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?&logo=tailwind-css" height="30">
-  <img src="https://img.shields.io/badge/-npm-CB3837?&logo=npm" height="30">
-  <img src="https://img.shields.io/badge/-Node.js-339933?&logo=Node.js" height="30">
-  <img src="https://img.shields.io/badge/-Express-000000?&logo=Express" height="30">
-  <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React" height="30">
-  <img src="https://img.shields.io/badge/-Redux-764ABC?&logo=Redux" height="30">
-  <img src="https://img.shields.io/badge/-Vite-646CFF?&logo=vite" height="30">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?&logo=Firebase" height="30">
-  <img src="https://img.shields.io/badge/-OAuth-000000?&logo=OAuth" height="30">
-  <img src="https://img.shields.io/badge/-PassportJS-34E27A?&logo=passport" height="30">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB" height="30">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL" height="30">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS" height="30">
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&logo=Google-Cloud" height="30">
-  <img src="https://img.shields.io/badge/-Git-F05032?&logo=Git" height="30">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker" height="30">
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman" height="30">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux" height="30">
-  <img src="https://img.shields.io/badge/-Unix-000000?&logo=unix" height="30">
-  <img src="https://img.shields.io/badge/-Shell-5391FE?&logo=gnu-bash" height="30">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?&logo=visual-studio-code" height="30">
-  <img src="https://img.shields.io/badge/-Eclipse-2C2255?&logo=Eclipse" height="30">
-  <img src="https://img.shields.io/badge/-Vercel-000000?&logo=Vercel" height="30">
-  <img src="https://img.shields.io/badge/-GitHub-181717?&logo=GitHub" height="30">
 </p>
 
 ## 🛠️ Tools and Technologies
