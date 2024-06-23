@@ -1,5 +1,5 @@
 # Hi there, I'm Tanmoy Das 👋
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Tanmoydas27.Tanmoydas27)
+![Visitor Count](https://hits.dwyl.com/Tanmoydas27/Tanmoydas27.svg)
 
 ## About Me
 ### I'm a passionate freshers software developer with experience in web development and its required framworks. I love to solve problems and create software that makes a difference.
